@@ -6,11 +6,11 @@
 
 ## Información del Alumno
 
-**Nombre y Apellido:** [Escribir aquí tu nombre y apellido]
+**Nombre y Apellido:** Gonzalo Carelli
 
-**Curso:** [Escribir aquí tu curso]
+**Curso:** 4to I
 
-**Fecha de entrega:** [Escribir aquí la fecha de entrega]
+**Fecha de entrega:** 22/07/25
 
 ---
 
